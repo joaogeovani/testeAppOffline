@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "3828004204",
+    "project_id": "testeappoffline",
+    "storage_bucket": "testeappoffline.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3828004204:android:1ce3223eda1b6f704def49",
+        "android_client_info": {
+          "package_name": "com.example.testeappoffline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3828004204-oadmrqh0p6p9f1urtelhbna94t3g63jt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdfEU8UviBdJ5f7uKyHVJlUgEso7q_jWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3828004204-oadmrqh0p6p9f1urtelhbna94t3g63jt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
